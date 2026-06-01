@@ -1,1 +1,1 @@
-# Linux Security Basics - Login Sessions
+# Linux Security Basics
