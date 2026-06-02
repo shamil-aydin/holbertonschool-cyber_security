@@ -1,1 +1,1 @@
-Permissions, SUID & SGID tasks
+Mandatory Access Control (SELinux) tasks
