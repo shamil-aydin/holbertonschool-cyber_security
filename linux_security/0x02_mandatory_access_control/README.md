@@ -1,1 +1,1 @@
-Mandatory Access Control (SELinux) tasks
+SELinux tasks
