@@ -1,1 +1,1 @@
-0x01 Passive Reconnaissance
+Passive reconnaissance CTF task
