@@ -1,1 +1,1 @@
-udp.dstport == 40125 or icmp[0] == 3
+udp.length == 8 && udp.srcport >= 1024
