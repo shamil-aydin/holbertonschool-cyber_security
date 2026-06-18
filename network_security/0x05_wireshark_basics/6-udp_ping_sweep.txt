@@ -1,1 +1,1 @@
-udp.dstport == 40125
+udp.dstport == 40125 or icmp[0] == 3
