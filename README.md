@@ -1,2 +1,1 @@
-# 0x00 Web Fundamentals
-Introduction to the Web Application Security module.
+# 0x03. SQL and NoSQL Injection
